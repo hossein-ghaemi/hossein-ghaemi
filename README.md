@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python,PHP & Laravel Developer, Software Engineer<br>🔭 Into Data science & machine learning<br>🌱 I’m currently learning vue.js & data science basis<br>📫 How to reach me? Just mail me (h.ghaemi256@gmail.com)<br>⚠️ Active contributor on GitLab, where my projects thrive;<br>You can have access to my gitlab profile from<a href="https://gitlab.com/hossein-ghaemi"> here</a>.<br>GitHub serves as a quiet corner, showcasing rare glimpses of my work.<br>⚡ PHP Isn't Bad :)
+Python,PHP & Laravel Developer, Software Engineer<br>🔭 Into Data science & machine learning<br>🌱 I’m currently learning vue.js & data science basis<br>📫 How to reach me? Just mail me (h.ghaemi256@gmail.com)<br>⚠️ Active contributor on GitLab, where my projects thrive;<br>You can have access to my gitlab profile from<a href="https://gitlab.com/hossein-ghaemi">here</a>.<br>GitHub serves as a quiet corner, showcasing rare glimpses of my work.<br>⚡ PHP Isn't Bad :)
 
 
 ## 🌐 Socials:
