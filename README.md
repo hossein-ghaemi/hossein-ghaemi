@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python,PHP & Laravel Developer, Software Engineer<br>🔭 Into Data science & machine learning<br>🌱 I’m currently learning vue.js & data science basis<br>📫 How to reach me? Just mail me (h.ghaemi256@gmail.com)<br>⚡ #php_is_not_bad
+Python,PHP & Laravel Developer, Software Engineer<br>🔭 Into Data science & machine learning<br>🌱 I’m currently learning vue.js & data science basis<br>📫 How to reach me? Just mail me (h.ghaemi256@gmail.com)<br>⚡ PHP Isn't Bad :)
 
 
 ## 🌐 Socials:
