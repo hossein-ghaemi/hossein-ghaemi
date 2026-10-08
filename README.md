@@ -1,13 +1,37 @@
-# 💫 About Me:
-Python,PHP & Laravel Developer, Software Engineer<br>🔭 Into Data science & machine learning<br>🌱 I’m currently learning Ml & Data science basis<br>📫 How to reach me? Just mail me (<a href="mailto:h.ghaemi256@gmail.com">h.ghaemi256@gmail.com</a>)
-       <br>⚠️ Active contributor on GitLab, where my projects thrive;<br>⚡ You can have access to my gitlab profile from <a href="https://gitlab.com/hossein-ghaemi">here</a>.<br>GitHub serves as a quiet corner, showcasing rare glimpses of my work.
+# Hi, I'm Jamshid (Hossein) Ghaemi 👋
 
+**Full-stack developer (4+ years, PHP/Laravel) moving into Data Science & AI**  
+M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hghaemi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hosseinghaemi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hossein-ghaemi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__hghaemi) 
+🎯 **Open to:** Werkstudent · Internship (Praktikum) · Junior roles in Data Science, AI/ML, Software Engineering, Full-Stack  
+📍 Cottbus / Berlin area · open to remote in Germany  
+🗣️ English (fluent) · Deutsch (A2, learning) · Persian (native)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# ⚙️​ OS:
-![Linux](https://img.shields.io/badge/linux-%2300000f.svg?style=for-the-badge&logo=linux&logoColor=yellow)
+---
 
+### 🔬 What I'm working on
+- Building **RAG / LLM applications** with LangChain, local models (Ollama) and vector search (FAISS)
+- **Data analysis & visualization** with pandas, Matplotlib and Seaborn
+- Information Retrieval & NLP fundamentals as part of my M.Sc.
+
+### ⭐ Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [**local_ai_pdf_chat**](https://github.com/hossein-ghaemi/local_ai_pdf_chat) | Chat with any PDF, fully offline — a RAG pipeline with local embeddings and a local LLM | Python · LangChain · Ollama · FAISS · Streamlit |
+| [**f1-dashboard**](https://github.com/hossein-ghaemi/f1-dashboard) | Formula 1 session explorer: lap data, telemetry and circuit analytics, with a tested API | FastAPI · FastF1 · pandas · Next.js · TypeScript · pytest |
+| [**telegram-job-scout-bot**](https://github.com/hossein-ghaemi/telegram-job-scout-bot) | Telegram bot that collects new job postings and sends only unseen ones, deployed as a systemd service | Python · python-telegram-bot · Linux |
+| [**information-retrieval**](https://github.com/hossein-ghaemi/Information-Retrieval-Stop-word-Remover-) | Boolean search and stop-word removal (list- and frequency-based) over a document corpus | Python · NLP · pytest |
+
+> Most of my professional Laravel/PHP work is on [GitLab](https://gitlab.com/hossein-ghaemi) or in private client repositories.
+
+### 🛠️ Tech stack
+**Data & AI:** Python · pandas · NumPy · Matplotlib · Seaborn · LangChain · Ollama · FAISS · Jupyter
+
+**Backend:** PHP · Laravel · FastAPI · REST APIs · MySQL · PostgreSQL · SQLite
+
+**Frontend:** JavaScript · TypeScript · Vue.js · Next.js/React · Tailwind CSS
+
+**DevOps:** Linux · Git · Nginx · Apache · systemd · Docker
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/hossein-ghaemi) · [GitLab](https://gitlab.com/hossein-ghaemi) · h.ghaemi256@gmail.com
