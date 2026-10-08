@@ -3,7 +3,7 @@
 **Full-stack developer (4+ years, PHP/Laravel) moving into Data Science & AI**  
 M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany
 
-🎯 **Open to:** Werkstudent · Internship (Praktikum) · Junior roles in Data Science, AI/ML, Software Engineering, Full-Stack  
+🎯 **Open to:** Werkstudent · Internship (Praktikum) · Data Science, AI/ML, Software Engineering, Full-Stack  
 📍 Cottbus / Berlin area · open to remote in Germany  
 🗣️ English (fluent) · Deutsch (A2, learning) · Persian (native)
 
