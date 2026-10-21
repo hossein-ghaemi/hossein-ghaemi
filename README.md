@@ -3,7 +3,7 @@
 **Full-stack developer (4+ years, PHP/Laravel) moving into Data Science & AI**  
 M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany
 
-🎯 **Open to:** Werkstudent · Internship (Praktikum) · Data Science, AI/ML, Software Engineering, Full-Stack  
+🎯 **Open to:** Werkstudent · Internship (Praktikum) · Junior roles in Data Science, AI/ML, Software Engineering, Full-Stack  
 📍 Cottbus / Berlin area · open to remote in Germany  
 🗣️ English (fluent) · Deutsch (A2, learning) · Persian (native)
 
@@ -11,12 +11,14 @@ M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany
 
 ### 🔬 What I'm working on
 - Building **RAG / LLM applications** with LangChain, local models (Ollama) and vector search (FAISS)
+- **Machine learning on real-world data**: lap-time prediction and race-strategy simulation with XGBoost & scikit-learn
 - **Data analysis & visualization** with pandas, Matplotlib and Seaborn
 - Information Retrieval & NLP fundamentals as part of my M.Sc.
 
 ### ⭐ Featured projects
 | Project | What it is | Stack |
 |---|---|---|
+| [**f1-pit-strategy**](https://github.com/hossein-ghaemi/f1-pit-strategy) | ML lap-time model (Random Forest vs XGBoost, cross-validated by race) that simulates pit-stop strategies and ranks them by predicted race time, using 2023–2025 OpenF1 data | Python · XGBoost · scikit-learn · pandas · Matplotlib · pytest |
 | [**local_ai_pdf_chat**](https://github.com/hossein-ghaemi/local_ai_pdf_chat) | Chat with any PDF, fully offline — a RAG pipeline with local embeddings and a local LLM | Python · LangChain · Ollama · FAISS · Streamlit |
 | [**f1-dashboard**](https://github.com/hossein-ghaemi/f1-dashboard) | Formula 1 session explorer: lap data, telemetry and circuit analytics, with a tested API | FastAPI · FastF1 · pandas · Next.js · TypeScript · pytest |
 | [**telegram-job-scout-bot**](https://github.com/hossein-ghaemi/telegram-job-scout-bot) | Telegram bot that collects new job postings and sends only unseen ones, deployed as a systemd service | Python · python-telegram-bot · Linux |
@@ -25,7 +27,7 @@ M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany
 > Most of my professional Laravel/PHP work is on [GitLab](https://gitlab.com/hossein-ghaemi) or in private client repositories.
 
 ### 🛠️ Tech stack
-**Data & AI:** Python · pandas · NumPy · Matplotlib · Seaborn · LangChain · Ollama · FAISS · Jupyter
+**Data & AI:** Python · pandas · NumPy · scikit-learn · XGBoost · Matplotlib · Seaborn · LangChain · Ollama · FAISS · Jupyter
 
 **Backend:** PHP · Laravel · FastAPI · REST APIs · MySQL · PostgreSQL · SQLite
 
